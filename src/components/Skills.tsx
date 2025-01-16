@@ -1,5 +1,5 @@
 export default function Skills() {
-    const skills = ['C', 'PYTHON', 'C++', 'JAVA', 'HTML', 'JAVASCRIPT', 'CSS', 'EXCEL']
+    const skills = ['C',  'C++', 'JAVA', 'HTML', 'JAVASCRIPT', 'CSS','BOOTSTRAP','NODE JS','MERN STACK','SQL','REDUX', 'EXCEL']
     const softSkills = ['Adaptability', 'Leadership', 'Analytical Thinking', 'Collaboration', 'Problem Solving']
   
     return (
